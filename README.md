@@ -1,2 +1,3 @@
 # hello-world
-learning
+learning c++
+inspiring to be a game developer
